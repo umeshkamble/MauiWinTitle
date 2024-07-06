@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiWinTitle", "MauiWinTitle.csproj", "{50925AB1-9ED7-4340-B9AB-07D419403EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.All|Any CPU.Build.0 = Release|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.All|Any CPU.Deploy.0 = Release|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50925AB1-9ED7-4340-B9AB-07D419403EDA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D20413-132E-438F-ACA3-5DD11F4B9158}
+	EndGlobalSection
+EndGlobal
